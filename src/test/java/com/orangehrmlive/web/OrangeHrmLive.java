@@ -41,14 +41,6 @@ public class OrangeHrmLive {
         // explicitWait.until(ExpectedConditions.visibilityOfElementLocated(By.className("lnXdpd")));
         ////////////////////////////////
 
-        // Elements - Select Lists
-        // Select select = new Select(WebElement);
-        //////////////////////////
-
-        // Alerts - JavaScript alerts, prompts and confirmations
-
-        ////////////////////////////////////////////////////////
-
         /////////////
         // Navigation
         chromeDriver.navigate().back();
